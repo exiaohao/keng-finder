@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+class Config(object):
+    WIFI_SSID = 'Hao'               # WIFI SSID
+    WIFI_PASSWD = '82622262'        # WIFI PASSWORD
+
+    STATUS_LED = 16
